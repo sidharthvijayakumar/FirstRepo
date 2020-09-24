@@ -5,7 +5,7 @@ public class Mainclass {
 		System.out.println("Hey trying to make war file");
 		System.out.println("Program to add two number");
 		int a=4,b=2;
-		System.out.println("new");
+		System.out.println("new   ");
 		System.out.println("Sum of the numbers you entered is :"+(a+b));
 		
 	}
