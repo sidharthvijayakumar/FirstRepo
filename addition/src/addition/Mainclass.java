@@ -6,6 +6,7 @@ public class Mainclass {
 		System.out.println("Program to add two number");
 		int a=4,b=2;
 		System.out.println("Sum of the numbers you entered is :"+(a+b));
+		System.out.println("Sum of the numbers you entered is :"+(a+b));
 		
 	}
 }
